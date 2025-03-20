@@ -177,16 +177,16 @@ http://localhost:8000/chatbot?query=Find%20me%20outlets%20near%20Bukit%20Bintang
  ┃ ┃ ┣ 📜 geocoder.py            # Google Maps Geocoding logic
  ┃ ┃ ┣ 📜 main.py                # FastAPI server
  ┃ ┃ ┣ 📜 scraper.py             # Web scraper using Selenium
- ┃ ┗ 📜 requirements.txt       # Backend dependencies
+ ┃ ┗ 📜 requirements.txt         # Backend dependencies
  ┣ 📂 frontend
  ┃ ┣ 📂 src
  ┃ ┃ ┣ 📂 components
- ┃ ┃ ┃ ┣ 📜 Chatbot.js         # Chatbot UI
- ┃ ┃ ┃ ┣ 📜 SubwayMap.js       # Interactive map
- ┃ ┃ ┣ 📜 App.js               # Main React App
- ┃ ┃ ┣ 📜 index.js             # React entry point
- ┃ ┣ 📜 package.json           # Frontend dependencies
- ┗ 📜 README.md                # Project documentation
+ ┃ ┃ ┃ ┣ 📜 Chatbot.js           # Chatbot UI
+ ┃ ┃ ┃ ┣ 📜 SubwayMap.js         # Interactive map
+ ┃ ┃ ┣ 📜 App.js                 # Main React App
+ ┃ ┃ ┣ 📜 index.js               # React entry point
+ ┃ ┣ 📜 package.json             # Frontend dependencies
+ ┗ 📜 README.md                  # Project documentation
 ```
 
 ---
@@ -210,15 +210,4 @@ http://localhost:8000/chatbot?query=Find%20me%20outlets%20near%20Bukit%20Bintang
 
 ## 📧 **Contact**
 For questions or support, email:  
-📩 `jermaine@mindhive.asia`  
-📩 `johnson@mindhive.asia`  
-```
-
----
-
-## **🚀 Next Steps**
-1. Save this as `README.md` in your project root.
-2. Customize it (e.g., **update the GitHub repo URL**).
-3. **Commit & push** it to your repository.
-
-Let me know if you need **any modifications**! 🎉🔥
+📩 `muhdamirulaiman07@gmail.com`  
