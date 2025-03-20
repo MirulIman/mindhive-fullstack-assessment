@@ -1,0 +1,15 @@
+# Ignore Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Ignore Node.js dependencies
+node_modules/
+*.log
+
+# Ignore database credentials
+*.db
+config.py
